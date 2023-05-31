@@ -1,0 +1,45 @@
+*{
+padding: 0;
+margin: 0;
+font-family: 'poppins', sans-serif;
+align-items: center;
+}
+
+body{
+background-color: 	#483D8B;
+}
+
+h1{
+color: white;
+margin-top: 200px;
+margin-left: 40%;
+}
+
+.inf{
+display: flex;
+background-color: azure;
+width: 400px;
+height: 300px;
+border-radius: 10%;
+margin-top: 80px;
+margin-left: 750px;
+}
+
+
+.inf button{
+margin-top: 0px;
+margin-left: 100px;
+border-radius:15%;
+height: 100px;
+width: 200px;
+}
+
+.ryuzaki{
+
+margin-left: 200px;
+margin-top: -800px;
+
+}
+
+
+
